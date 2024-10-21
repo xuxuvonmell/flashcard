@@ -1,0 +1,8 @@
+body {
+    background-color: #a9dbf5;
+    font-family: Bai Jamjuree;
+}
+
+#container {
+    display: flex; 
+}
